@@ -1,0 +1,14 @@
+D:\C#\Todolistimproved\bin\Debug\net8.0\Todolistimproved.exe
+D:\C#\Todolistimproved\bin\Debug\net8.0\Todolistimproved.deps.json
+D:\C#\Todolistimproved\bin\Debug\net8.0\Todolistimproved.runtimeconfig.json
+D:\C#\Todolistimproved\bin\Debug\net8.0\Todolistimproved.dll
+D:\C#\Todolistimproved\bin\Debug\net8.0\Todolistimproved.pdb
+D:\C#\Todolistimproved\obj\Debug\net8.0\Todolistimproved.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Todolistimproved\obj\Debug\net8.0\Todolistimproved.AssemblyInfoInputs.cache
+D:\C#\Todolistimproved\obj\Debug\net8.0\Todolistimproved.AssemblyInfo.cs
+D:\C#\Todolistimproved\obj\Debug\net8.0\Todolistimproved.csproj.CoreCompileInputs.cache
+D:\C#\Todolistimproved\obj\Debug\net8.0\Todolistimproved.dll
+D:\C#\Todolistimproved\obj\Debug\net8.0\refint\Todolistimproved.dll
+D:\C#\Todolistimproved\obj\Debug\net8.0\Todolistimproved.pdb
+D:\C#\Todolistimproved\obj\Debug\net8.0\Todolistimproved.genruntimeconfig.cache
+D:\C#\Todolistimproved\obj\Debug\net8.0\ref\Todolistimproved.dll
