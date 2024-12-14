@@ -1,0 +1,7 @@
+D:\C#\CurrencyCalc\bin\Debug\CurrencyCalc.exe.config
+D:\C#\CurrencyCalc\bin\Debug\CurrencyCalc.exe
+D:\C#\CurrencyCalc\bin\Debug\CurrencyCalc.pdb
+D:\C#\CurrencyCalc\obj\Debug\CurrencyCalc.csproj.AssemblyReference.cache
+D:\C#\CurrencyCalc\obj\Debug\CurrencyCalc.csproj.CoreCompileInputs.cache
+D:\C#\CurrencyCalc\obj\Debug\CurrencyCalc.exe
+D:\C#\CurrencyCalc\obj\Debug\CurrencyCalc.pdb
