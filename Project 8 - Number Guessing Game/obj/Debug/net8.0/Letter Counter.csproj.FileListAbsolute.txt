@@ -1,0 +1,4 @@
+D:\C#\Letter Counter\obj\Debug\net8.0\Letter Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Letter Counter\obj\Debug\net8.0\Letter Counter.AssemblyInfoInputs.cache
+D:\C#\Letter Counter\obj\Debug\net8.0\Letter Counter.AssemblyInfo.cs
+D:\C#\Letter Counter\obj\Debug\net8.0\Letter Counter.csproj.CoreCompileInputs.cache
